@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.exe.config
+c:\users\user\documents\visual studio 2015\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+c:\users\user\documents\visual studio 2015\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+c:\users\user\documents\visual studio 2015\Projects\UdpClient\UdpClient\obj\Debug\UdpClient.exe
+c:\users\user\documents\visual studio 2015\Projects\UdpClient\UdpClient\obj\Debug\UdpClient.pdb

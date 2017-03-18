@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+c:\users\user\documents\visual studio 2015\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+c:\users\user\documents\visual studio 2015\Projects\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
