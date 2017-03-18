@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ChatBox\ChatBox\bin\Debug\ChatBox.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ChatBox\ChatBox\bin\Debug\ChatBox.exe
+c:\users\user\documents\visual studio 2015\Projects\ChatBox\ChatBox\bin\Debug\ChatBox.pdb
+c:\users\user\documents\visual studio 2015\Projects\ChatBox\ChatBox\obj\Debug\ChatBox.exe
+c:\users\user\documents\visual studio 2015\Projects\ChatBox\ChatBox\obj\Debug\ChatBox.pdb
