@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+c:\users\user\documents\visual studio 2015\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+c:\users\user\documents\visual studio 2015\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+c:\users\user\documents\visual studio 2015\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
