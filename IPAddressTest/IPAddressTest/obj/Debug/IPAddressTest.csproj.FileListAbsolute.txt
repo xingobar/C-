@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\bin\Debug\IPAddressTest.exe.config
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\bin\Debug\IPAddressTest.exe
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\bin\Debug\IPAddressTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\obj\Debug\IPAddressTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\obj\Debug\IPAddressTest.exe
+c:\users\user\documents\visual studio 2015\Projects\IPAddressTest\IPAddressTest\obj\Debug\IPAddressTest.pdb

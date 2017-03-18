@@ -1,0 +1,5 @@
+c:\Users\USER\documents\visual studio 2015\Projects\IpToHost\DnsTest\bin\Debug\DnsTest.exe.config
+c:\Users\USER\documents\visual studio 2015\Projects\IpToHost\DnsTest\bin\Debug\DnsTest.exe
+c:\Users\USER\documents\visual studio 2015\Projects\IpToHost\DnsTest\bin\Debug\DnsTest.pdb
+c:\Users\USER\documents\visual studio 2015\Projects\IpToHost\DnsTest\obj\Debug\DnsTest.exe
+c:\Users\USER\documents\visual studio 2015\Projects\IpToHost\DnsTest\obj\Debug\DnsTest.pdb
