@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\bin\Debug\PptCrawler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\bin\Debug\PptCrawler.exe
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\bin\Debug\PptCrawler.pdb
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.exe
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.pdb
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\bin\Debug\WebDriver.dll
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\bin\Debug\WebDriver.xml
+c:\users\user\documents\visual studio 2015\Projects\PptCrawler\PptCrawler\obj\Debug\PptCrawler.csprojResolveAssemblyReference.cache
